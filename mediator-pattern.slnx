@@ -2,5 +2,5 @@
   <Project Path="MediatorPattern.API/MediatorPattern.API.csproj" />
   <Project Path="MediatorPattern.Domains/MediatorPattern.Domains.csproj" />
   <Project Path="MediatorPattern.Repo/MediatorPattern.Repo.csproj" />
-  <Project Path="MediatorPattern.Services/MediatorPattern.Application.csproj" />
+  <Project Path="MediatorPattern.Application/MediatorPattern.Application.csproj" />
 </Solution>
