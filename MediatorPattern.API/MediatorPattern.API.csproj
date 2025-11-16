@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MediatorPattern.Repo\MediatorPattern.Repo.csproj" />
-    <ProjectReference Include="..\MediatorPattern.Services\MediatorPattern.Application.csproj" />
+    <ProjectReference Include="..\MediatorPattern.Application\MediatorPattern.Application.csproj" />
   </ItemGroup>
 
 </Project>
